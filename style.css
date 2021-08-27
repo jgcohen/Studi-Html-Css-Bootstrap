@@ -9,3 +9,11 @@
     overflow:hidden; 
     height: 150px;
   }
+
+  #team{
+      max-height: 300px;
+      width: auto;
+  }
+  p{
+      margin: 0;
+  }
