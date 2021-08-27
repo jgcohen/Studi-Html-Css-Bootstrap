@@ -1,5 +1,11 @@
-img {
+.img {
     display: block;
     max-width: 100%;
     height: auto;
+    margin: -25% 0;
+  }
+
+.imgcontainer{   
+    overflow:hidden; 
+    height: 150px;
   }
