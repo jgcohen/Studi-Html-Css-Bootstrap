@@ -2,4 +2,4 @@
 
 Training evaluation
 
-Web site will be available on phanios.fr
+Web site will be available on https://jdr.phanios.fr/
